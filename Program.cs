@@ -29,11 +29,11 @@ var app = builder.Build();
 // שימוש במדיניות ה-CORS הפתוחה
 app.UseCors("AllowAll");
 
-if (app.Environment.IsDevelopment())
-{
+// if (app.Environment.IsDevelopment())
+// {
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+// }
 app.MapGet("/", () => "Welcome to Todo API!");
 
 // Get all items
