@@ -310,3 +310,4 @@ C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\refint\TodoApi
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.pdb
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\ref\TodoApi.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.sourcelink.json
