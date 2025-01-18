@@ -214,6 +214,7 @@ C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\TodoApi.runtim
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\TodoApi.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\TodoApi.pdb
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Humanizer.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -224,6 +225,12 @@ C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.Enti
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\MySqlConnector.dll
@@ -237,6 +244,7 @@ C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\System.Composi
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\לימודים\פרקטיקוד\TodoAPIServer\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -296,6 +304,7 @@ C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.Assemb
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.sourcelink.json
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\staticwebassets.build.json
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\staticwebassets.development.json
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -310,4 +319,3 @@ C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\refint\TodoApi
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.pdb
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\ref\TodoApi.dll
-C:\לימודים\פרקטיקוד\TodoAPIServer\obj\Debug\net8.0\TodoApi.sourcelink.json
